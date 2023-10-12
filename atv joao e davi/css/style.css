@@ -34,12 +34,12 @@ canvas{
 }
 
 #titulo{
-    color: #fff; /* Cor do texto clara (branco) */
-    font-size: 50px; /* Tamanho da fonte */
+    color: #fff; 
+    font-size: 50px; 
     font-family: Courier;
-    text-align: center; /* Centralizar o texto */
-    margin-top: 10px; /* Espaçamento superior */
-    text-shadow: 2px 2px 4px #979797; /* Sombra do texto (opcional) */
+    text-align: center; 
+    margin-top: 10px; 
+    text-shadow: 2px 2px 4px #979797; 
 }
 
 #btn_iniciar{
