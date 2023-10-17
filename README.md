@@ -25,8 +25,8 @@ essa função gira os elementos em torno do ponto de origem do sistema de coorde
 efetua um giro em torno de seu próprio eixo.
 No projeto foi utilizado para fazer o astronauta girar em 90°, girando quatro vezes  
 
-<h2>Escala:</h2>
-A função ctx.scale() é utilizada para realizar o escalonamento ou redimensionamento de uma imagem, esta função 
+<h2>Escale:</h2>
+A função scale() é utilizada para realizar o escalonamento ou redimensionamento de uma imagem, esta função 
 permite ajustar o tamanho dos elementos em relação ao ponto de origem do sistema de coordenadas, podendo diminuir ou
 aumentar o tamanho do elemento dentro do canvas.
 No projeto foi utilizado para fazer o astronauta aumentar ou diminiur de tamanho, fica a escolha do usuário.
