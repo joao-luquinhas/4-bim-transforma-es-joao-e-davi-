@@ -23,7 +23,7 @@ No projeto foi utilizada fazer a movimentação do astronauta dentro dos limites
 A função rotate() é usada para aplicar uma transformação de rotação aos elementos desenhados dentro do canvas, 
 essa função gira os elementos em torno do ponto de origem do sistema de coordenadas, matematicamente falando,
 efetua um giro em torno de seu próprio eixo.
-No projeto foi utilizado para fazer o astronauta girar em 90°, girando quatro vezes com 
+No projeto foi utilizado para fazer o astronauta girar em 90°, girando quatro vezes com  
 
 <h2>Escala:</h2>
 
