@@ -13,7 +13,7 @@ Concluído
 Projeto se trata de um pequeno jogo de uma cena sobre um astronauta que está vagando pelo infinito espaço do universo. O jogo tem como objetivo
 demonstrar algumas funções de um canvas/js para fins didáticos.
 
-## Funções Utilizadas
+# Funções Utilizadas
 <h2>Translate:</h2>
 A função translate() altera a origem, ponto inicial, das coordenadas do desenho,
 feito para mover o sistema de coordenadas em relação ao qual desenha elementos dentro do canvas.
