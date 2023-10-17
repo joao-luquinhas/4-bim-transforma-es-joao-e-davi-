@@ -9,7 +9,10 @@
 
 <h2>Descrição do projeto:<h2>
 Projeto se trata de um pequeno jogo de uma cena sobre um astronauta que está vagando pelo infinito espaço do universo. O jogo tem como objetivo
-demonstrar algumas funções de um canvas/js para fins de aprendizado.
+demonstrar algumas funções de um canvas/js para fins didáticos.
+
+## Funções Utilizadas:
+
 
 
 
