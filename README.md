@@ -23,9 +23,24 @@ No projeto foi utilizada fazer a movimentação do astronauta dentro dos limites
 A função rotate() é usada para aplicar uma transformação de rotação aos elementos desenhados dentro do canvas, 
 essa função gira os elementos em torno do ponto de origem do sistema de coordenadas, matematicamente falando,
 efetua um giro em torno de seu próprio eixo.
-No projeto foi utilizado para fazer o astronauta girar em 90°, girando quatro vezes com  
+No projeto foi utilizado para fazer o astronauta girar em 90°, girando quatro vezes  
 
 <h2>Escala:</h2>
+A função ctx.scale() é utilizada para realizar o escalonamento ou redimensionamento de uma imagem, esta função 
+permite ajustar o tamanho dos elementos em relação ao ponto de origem do sistema de coordenadas, podendo diminuir ou
+aumentar o tamanho do elemento dentro do canvas.
+No projeto foi utilizado para fazer o astronauta aumentar ou diminiur de tamanho, fica a escolha do usuário.
+
+<h2>Transform:</h2>
+A função ctx.transform() realiza uma variedade de transformações, como translação, rotação, escala 
+e inclinação em um único passo, sendo uma mistura de todos as funções mostradas anteriormente.
+No projeto foi utilizado apenas para inclinar o astronauta, já que já foram utilizados outras
+funções para o mesmo objetivo.
+
+<h2>Clipping Path:</h2>
+O Clipping Path é a função ctx.clip(), uma técnica de recorte, em combinação com a criação de um caminho (path) personalizado,
+podendo ser utilizado outros métodos para esta personalização (arc, rect, line).
+
 
 
    <img src="img/foto.png">
