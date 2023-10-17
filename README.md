@@ -1,5 +1,5 @@
 # Transformações
-<h1>Atividade de DJW 4° Bimestre - Canvas</h1>
+## Atividade de DJW 4° Bimestre - Canvas
 
 <h2>Autores:</h2> Davi Nascimento e João Lucas
 
