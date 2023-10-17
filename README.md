@@ -1,5 +1,4 @@
 # Atividade de DJW 4° Bimestre - Transformações
-
 <h2>Autores:</h2> 
 Davi Nascimento e João Lucas
 
@@ -9,7 +8,7 @@ HTML, Css, JavaScript
 <h2>Andamento do projeto:</h2> 
 Concluído
 
-<h2>Descrição do projeto:<h2>
+<h2>Descrição do Projeto:<h2>
 Projeto se trata de um pequeno jogo de uma cena sobre um astronauta que está vagando pelo infinito espaço do universo. O jogo tem como objetivo
 demonstrar algumas funções de um canvas/js para fins didáticos.
 
