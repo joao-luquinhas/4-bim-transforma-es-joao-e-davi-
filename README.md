@@ -43,11 +43,7 @@ podendo ser utilizado outros métodos para esta personalização (arc, rect, lin
 
 
 
-   <img src="img/foto.png">
-   
-   [--> CLIQUE AQUI para ver o vídeo detalhado do jogo <--](https://youtu.be/mMj8ICaj_qg)
-   
-<h2>Instruções de Jogo:<h2> 
+  
 <p>
       
 - [Pressione o botão Jogar na tela para começar o jogo]()
