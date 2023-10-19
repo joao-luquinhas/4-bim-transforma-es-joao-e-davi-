@@ -44,17 +44,23 @@ No projeto foi utilizado para definir um recorte circular em torno do astronauta
 
 
 
-  
+<h2>Instruções de Jogo:</h2>  
 <p>
       
 - [Pressione o botão Jogar na tela para começar o jogo]()
       
-- [Pressione a Tecla W para movimentar a barra para cima]()
+- [Pressione as Teclas W,S,D,A para movimentar o astronauta]()
   
-- [Pressione a Tecla S para movimentar a barra para baixo]()
-  
-- [Tente Rebater a Bola e marcar Pontos]()
-  
-- [Ao Terminar o Tempo, Saia ou Clique em Reiniciar para jogar novamente]()
+- [Pressione a Tecla R para girar o astronauta]()
+
+- [Pressione a Tecla E para Aumentar ou Q para Diminuir o tamanho do astronauta]()
+
+- [Pressione a Tecla T para inclinar o astronauta]()
+
+- [Pressione a Tecla C para ativar uma borda circular no astronauta]()
+
+- [Pressione a Tecla X para resetar o cenário]()
+
+- [Ao Terminar Pressione o Botão Parar para Interromper a Cena]()
   
 </p>
