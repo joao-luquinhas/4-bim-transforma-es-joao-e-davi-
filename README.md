@@ -49,7 +49,7 @@ No projeto foi utilizado para definir um recorte circular em torno do astronauta
       
 - [Pressione o botão Jogar na tela para começar o jogo]()
       
-- [Pressione as Teclas W,S,D,A para movimentar o astronauta]()
+- [Pressione as Teclas W, S, D, A para movimentar o astronauta]()
   
 - [Pressione a Tecla R para girar o astronauta]()
 
