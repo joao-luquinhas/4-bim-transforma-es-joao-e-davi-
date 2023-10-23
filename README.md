@@ -56,7 +56,8 @@ No projeto foi utilizado para definir um recorte circular em torno do astronauta
 <br>
 
 <h2>Git:</h2>
-<img src="atv joao e davi/img/git.png"></img>
+<img src="atv joao e davi/img/git1.png"></img>
+<img src="atv joao e davi/img/git2.png"></img>
 
 <br>
 <p>
