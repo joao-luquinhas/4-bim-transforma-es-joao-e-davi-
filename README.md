@@ -51,7 +51,8 @@ funções para o mesmo objetivo.
 O Clipping Path é a função ctx.clip(), uma técnica de recorte, em combinação com a criação de um caminho (path) personalizado,
 podendo ser utilizado outros métodos para esta personalização (arc, rect, line).
 No projeto foi utilizado para definir um recorte circular em torno do astronauta com uma borda azul, tornando o canvas um círculo quando o usuário quiser.
-
+<img src="atv joao e davi/img/astro_clip.png"></img>
+<img src="atv joao e davi/img/code_clip.png"></img>
 
 <br>
 <h2>Instruções de Jogo:</h2>  
