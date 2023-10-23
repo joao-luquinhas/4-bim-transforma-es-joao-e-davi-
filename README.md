@@ -53,9 +53,12 @@ podendo ser utilizado outros métodos para esta personalização (arc, rect, lin
 No projeto foi utilizado para definir um recorte circular em torno do astronauta com uma borda azul, tornando o canvas um círculo quando o usuário quiser.
 <img src="atv joao e davi/img/astro_clip.png"></img>
 <img src="atv joao e davi/img/code_clip.png"></img>
+<br>
+
+<h2>Git:</h2>
+<img src="atv joao e davi/img/git.png"></img>
 
 <br>
-<h2>Instruções de Jogo:</h2>  
 <p>
       
 - [Pressione o botão Jogar na tela para começar o jogo]()
