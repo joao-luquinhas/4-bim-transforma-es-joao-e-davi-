@@ -35,6 +35,9 @@ A função scale() é utilizada para realizar o escalonamento ou redimensionamen
 permite ajustar o tamanho dos elementos em relação ao ponto de origem do sistema de coordenadas, podendo diminuir ou
 aumentar o tamanho do elemento dentro do canvas.
 No projeto foi utilizado para fazer o astronauta aumentar ou diminiur de tamanho, fica a escolha do usuário.
+<img src="atv joao e davi/img/astro_grande.png"></img>
+<img src="atv joao e davi/img/astro_pequeno.png"></img>
+<img src="atv joao e davi/img/code_esc.png"></img>
 <br>
 <h2>Transformação:</h2>
 A função ctx.transform() realiza uma variedade de transformações, como translação, rotação, escala 
