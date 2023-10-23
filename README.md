@@ -18,7 +18,7 @@ A função translate() altera a origem, ponto inicial, das coordenadas do desenh
 feito para mover o sistema de coordenadas em relação ao qual desenha elementos dentro do canvas.
 No projeto foi utilizada fazer a movimentação do astronauta dentro dos limites do canvas em 4 direções
 (cima, baixo, direita e esquerda).
-<img src="img/astro_default.png"></img>
+<img src="../img/astro_default.png"></img>
 
 
 <h2>Rotacão:</h2>
