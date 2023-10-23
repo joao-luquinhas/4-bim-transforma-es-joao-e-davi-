@@ -60,6 +60,7 @@ No projeto foi utilizado para definir um recorte circular em torno do astronauta
 <img src="atv joao e davi/img/git2.png"></img>
 
 <br>
+<h2>Instruções de Jogo:</h2>
 <p>
       
 - [Pressione o botão Jogar na tela para começar o jogo]()
