@@ -19,7 +19,8 @@ feito para mover o sistema de coordenadas em relação ao qual desenha elementos
 No projeto foi utilizada fazer a movimentação do astronauta dentro dos limites do canvas em 4 direções
 (cima, baixo, direita e esquerda).
 <img src="atv joao e davi/img/astro_default.png"></img>
-
+<img src="atv joao e davi/img/astro_default2.png"></img>
+<img src="atv joao e davi/img/code_mov.png"></img>
 
 <h2>Rotacão:</h2>
 A função rotate() é usada para aplicar uma transformação de rotação aos elementos desenhados dentro do canvas, 
