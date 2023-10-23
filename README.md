@@ -44,6 +44,8 @@ A função ctx.transform() realiza uma variedade de transformações, como trans
 e inclinação em um único passo, sendo uma mistura de todos as funções mostradas anteriormente.
 No projeto foi utilizado apenas para inclinar o astronauta, já que já foram utilizados outras
 funções para o mesmo objetivo.
+<img src="atv joao e davi/img/astro_trans.png"></img>
+<img src="atv joao e davi/img/code_trans.png"></img>
 <br>
 <h2>Clipping Path:</h2>
 O Clipping Path é a função ctx.clip(), uma técnica de recorte, em combinação com a criação de um caminho (path) personalizado,
