@@ -217,7 +217,7 @@ class ClippingPath {
             if (event.key === "c" || event.key === "C") {
                 //faz o recorte de fundo do canvas ao apertar a tecla C
                 ctx.beginPath();
-                ctx.arc(0, 0, 230, 0, Math.PI * 2);
+                ctx.arc(0, 0, 180, 0, Math.PI * 2);
                 ctx.closePath();
                 ctx.strokeStyle = "#FFFF00";
                 ctx.lineWidth = 10;
