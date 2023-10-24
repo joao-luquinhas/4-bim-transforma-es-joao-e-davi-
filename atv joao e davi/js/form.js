@@ -16,10 +16,6 @@ let velY = 10;
 let velX_esq = velX * -1;
 let velY_cima = velY * -1;
 
-// Coordenadas da estrela
-let xEstrela = 400;
-let yEstrela = 200;
-
 // Coordenadas do astronauta
 let astronautaX = 0;
 let astronautaY = 0;
